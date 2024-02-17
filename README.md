@@ -22,4 +22,6 @@
 |[Disipadores-cocina](/cooking_triggers.sql)|Disipadores base de datos cocina|
 
 ## OracleDB - 
-
+|Ejercicio   |Descripción     |
+|------------|----------------|
+|[Cuota](/quota.sql)|Script que comprueba los usuarios activos que han utilizado el máximo de su cuota asignada o no tienen una y amplia o asigna una a los mismos.|
